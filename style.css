@@ -118,6 +118,40 @@ body {
     text-align: right;
     padding-right: 50px;
 }
+
+.section-four{
+    display:flex;
+    align-items: center;
+    background-color: #3882F6 ;
+    margin: 50px 200px;
+    border-radius: 15px;
+    font-family: 'Roboto', arial;
+}
+
+.section-four h3{
+    color: white;
+    text-align: left;
+    font-family: 'Roboto', arial;
+    margin: 30px 0px 0px 50px;
+}
+
+.section-four p{
+    color: white;
+    font-family: 'Roboto', arial;
+    margin: 5px 30px 30px 50px;
+}
+
+.section-four button{
+    text-align: center;
+    border: 1px solid white;
+    background: #3882f6;
+    padding: 10px;
+    border-radius: 30px;
+    color: #fff;
+    font-family: 'Roboto', arial;
+}
 .footer{
     background-color: #1F2937;
+    color: white;
+    font-family: 'Roboto', arial;
 }
