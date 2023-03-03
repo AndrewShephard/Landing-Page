@@ -80,6 +80,24 @@ body {
     font-weight: bold;
     align-self: center; 
 }
+
+.section-two{
+    align-items: center;
+}
+
+.images-text{
+    display: flex;
+    justify-content: center;
+}
+
+.images-text img{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    border: 4px solid darkblue;
+    border-radius: 15px;
+    margin: 5px 25px 5px 25px;
+}
 .footer{
     background-color: #1F2937;
 }
