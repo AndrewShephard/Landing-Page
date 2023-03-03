@@ -5,9 +5,19 @@ body {
     text-align: center;
     font-family: 'Roboto', arial;
 }
-
+.container {
+    display: flex;
+    flex-direction: column;
+}
 .section-one{
     background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    align-items: center;
+}
+
+.section-one,.header-logo{
+    margin-right: auto;
 }
 .footer{
     background-color: #1F2937;
