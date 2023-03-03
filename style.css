@@ -98,6 +98,26 @@ body {
     border-radius: 15px;
     margin: 5px 25px 5px 25px;
 }
+
+.section-three{
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    padding: 100px;
+}
+
+.section-three p{
+    font-family: 'Roboto', arial;
+    font-style: italic;
+    font-size: 36px;
+
+}
+
+.section-three strong{
+    font-family: 'Roboto', arial;
+    text-align: right;
+    padding-right: 50px;
+}
 .footer{
     background-color: #1F2937;
 }
